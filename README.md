@@ -3,7 +3,7 @@
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| <img src="https://github.com/BoguslawObara/vesselness2d/blob/master/im/retina.png" width="250">  | <img src="https://github.com/BoguslawObara/vesselness2d/blob/master/im/retina_s.png" width="250"> |
+| <img src="https://github.com/BoguslawObara/vessel_enhancement2d/blob/master/im/retina.png" width="250">  | <img src="https://github.com/BoguslawObara/vessel_enhancement2d/blob/master/im/retina_s.png" width="250"> |
 
 If you find this code useful in your research and developement, please consider citing:
 
